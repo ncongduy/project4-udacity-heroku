@@ -28,8 +28,10 @@ Navigate to http://localhost:8080/ in your browser for dev environment.
 Navigate to http://localhost:5000/ in your browser for product environment.
 
 ## Demo
-
 ![Demo web app](/src/client/img/evaluate-news-nlp.png)
+
+## Deployment
+https://evaluate-news-nlp-project4.herokuapp.com/
 
 
 ## Author
