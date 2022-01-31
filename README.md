@@ -3,7 +3,7 @@ This is project 4 from the Udacity Front End Nanodegree program. This project is
 
 
 ## Usage
-User can type in a text or paste a link to input. After that, user will receive analysis of content, which are sentiment, agreement, subjectivity, irony.
+The user can type or paste a link to input. After that, the user will receive an analysis of content, which are sentiment, agreement, subjectivity, irony.
 
 ## The goal of project
 This project help me to practice with:
